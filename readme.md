@@ -1,4 +1,4 @@
-### Open data to OCB connector
+### AGV data to OCB connector
 A simple connector that reads data from a REST service
 about AGV data sensors and sends them to OCB, in order to test Quantum-leap behaviour (using CrateDB) and Grafana tools.
 
